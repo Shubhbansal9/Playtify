@@ -1,3 +1,5 @@
+### Playtify
+
 ## About
 
 Playtify is an application which recommends a playlist based on your mood!
