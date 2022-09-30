@@ -9,7 +9,6 @@ Playtify is an application which recommends a playlist based on your mood!
 - Dart
 - Flutter
 
-
 ## Getting Started
 
 To get started:
@@ -24,17 +23,13 @@ To get started:
 - `git push origin my-amazing-feature`
 - Open a pull request :)
 
-
-### Development Run
+### Installation
 
 ```shell
-pub get
+flutter pub get
 flutter run
 ```
 
-### Production Run
+## Contributing
 
-```shell
-pub get 
-flutter run
-```
+To start contributing, check out [CONTRIBUTING.md](). New contributors are always welcome to support this project. If you want something gentle to start with, check out issues labelled as easy or good-first-issue. Check out issues labelled as hacktoberfest if you are up for some grabs! :)
