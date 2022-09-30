@@ -23,7 +23,7 @@ To get started:
 - `git push origin my-amazing-feature`
 - Open a pull request :)
 
-### Installation
+## Installation
 
 ```shell
 flutter pub get
