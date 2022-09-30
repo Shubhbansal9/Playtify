@@ -32,5 +32,5 @@ flutter run
 
 ## Contributing
 
-To start contributing, check out [CONTRIBUTING.md](https://github.com/Shubhbansal9/Playtify/CONTRIBUTING.md). New contributors are always welcome to support this project. If you want something gentle to start with, check out issues labelled as easy or good-first-issue. Check out issues labelled as hacktoberfest if you are up for some grabs! :)
+To start contributing, check out [CONTRIBUTING.md]("https://github.com/Shubhbansal9/Playtify/CONTRIBUTING.md"). New contributors are always welcome to support this project. If you want something gentle to start with, check out issues labelled as easy or good-first-issue. Check out issues labelled as hacktoberfest if you are up for some grabs! :)
 
