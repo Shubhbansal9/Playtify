@@ -1,2 +1,2 @@
 # Playtify
-A playlist recommendation application based on your mood
+A playlist recommendation CLI (Command Line Interface) based on your mood
