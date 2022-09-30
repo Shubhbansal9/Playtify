@@ -1,4 +1,4 @@
-### Playtify
+# Playtify
 
 ## About
 
